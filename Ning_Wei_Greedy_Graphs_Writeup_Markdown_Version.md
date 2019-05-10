@@ -194,4 +194,4 @@ Complexity can be reduced to O(ElogV).
 
 1. <https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/>
 2. Professor Yao's lecture notes.
-3. Worked with Timothy Lei, Robby Zhang.
+3. Worked with Timothy Lei, Robby Zhang, Lin Hui. 
