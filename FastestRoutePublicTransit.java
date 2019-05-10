@@ -1,7 +1,7 @@
 /**
  * Public Transit
  * Author: Ning Wei and Carolyn Yao
- * Does this compile? Y/N
+ * Does this compile? Y
  */
 
 /**
@@ -202,7 +202,7 @@ public class FastestRoutePublicTransit {
 
     int startTime = 10;
 
-    System.out.print(t.myShortestTravelTime(start, end, startTime, lengths, first, freq));
+    System.out.print("The shortest time from " + start + " to " + end + " station is : " + t.myShortestTravelTime(start, end, startTime, lengths, first, freq) + " minutes");
 
   }
 }
